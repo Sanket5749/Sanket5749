@@ -1,4 +1,4 @@
-## Hi there 👋 Sanket Patil 
+## 👋 Hi there Sanket Patil 
 
 # 💫 About Me:
 🔭 I’m currently working on Backend Devlopment<br>🌱 I’m currently learning MERN Stack Devlopment
